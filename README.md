@@ -1,12 +1,9 @@
 # Alfred 2 workflow Scroll Direction
-Alfred 2 workflow to show and change the scroll direction of OS X.
+Alfred 2 workflow to show and change the scroll direction of System Prefrences on OS X.
+> I've only tested on OS X 10.9 Mavericks. I think it should work on 10.8.x or 10.7.x :)
 
 If you're using both trackpad and mouse (as me), and prefer different scroll direction for them,
 this tool maybe fit for you.
-
-###Note
-I've only tested this on OS X 10.9 Mavericks.
-I think it should work on 10.8.x or 10.7.x :)
 
 ## Installation
 You can download the [Scroll Direction.alfredworkflow](https://github.com/tyeen/alfred2-wf-scroll-direction/raw/master/Scroll%20Direction.alfredworkflow) and import to Alfred 2.
