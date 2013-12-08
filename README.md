@@ -12,7 +12,7 @@ Or you can `git clone` or `fork` this repository.
 
 ## Usage
 ### 1. Check the current scroll direction.
-Just type the keyword `scrolldirection` to check the current scroll direction.
+Type the keyword `scrolldirection`.
 > Be comfortable to change the keyword to what you like after importing this workflow:)
 
 ![](https://raw.github.com/tyeen/alfred2-wf-scroll-direction/master/screenshots/show_current_scroll_direction1.png)
