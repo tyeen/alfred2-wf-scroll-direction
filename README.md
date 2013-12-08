@@ -5,7 +5,7 @@ If you're using both trackpad and mouse (as me), and prefer different scroll dir
 this tool maybe fit for you.
 
 ###Note
-This workflow has only been tested under OS X 10.9 Mavericks.
+I've only tested this on OS X 10.9 Mavericks.
 I think it should work on 10.8.x or 10.7.x :)
 
 ## Installation
