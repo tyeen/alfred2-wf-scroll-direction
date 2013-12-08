@@ -9,7 +9,7 @@ This workflow has only been tested under OS X 10.9 Mavericks.
 I think it should work on 10.8.x or 10.7.x :)
 
 ## Installation
-You can download the [Scroll Direction.alfredworkflow](https://github.com/tyeen/alfred2-wf-scroll-direction/blob/master/Scroll%20Direction.alfredworkflow) and import to Alfred 2.
+You can download the [Scroll Direction.alfredworkflow](https://github.com/tyeen/alfred2-wf-scroll-direction/raw/master/Scroll%20Direction.alfredworkflow) and import to Alfred 2.
 
 Or you can `git clone` or `fork` this repository.
 
